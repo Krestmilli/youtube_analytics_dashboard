@@ -53,9 +53,12 @@ This project helped me sharpen skills in:
 - Combining creator economy data with global population/demographics
 
 ---
+## 🔗 Connect with Me
+Feel free to view and interact with this project on LinkedIn:
 
-## 🔗 Social
-Feel free to check out my post on [LinkedIn](www.linkedin.com/in/ifeanyieric) and connect if you're also working with analytics and data storytelling.
+*[www.linkedin.com/in/ifeanyieric](https://www.linkedin.com/in/ifeanyieric)*
+
+Let’s connect if you’re passionate about analytics, BI, or data storytelling!
 
 ---
 
